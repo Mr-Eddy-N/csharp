@@ -21,7 +21,7 @@ namespace BusquedaAnchoConsola
             //int[,] matrix = new int[2, 2];
             // matrix = new int[2, 2] { { 1,2 }, { 3,0 } };
             //int [,]matrix = new int[3,3]{{5,4,6},{2,0,1},{3,8,7}};
-            int[,] matrix = new int[3, 3] { { 1, 2, 3 }, { 4, 0, 5 }, { 6, 7, 8 } };
+            int[,] matrix = new int[3, 3] { { 1, 2, 3 }, { 4, 0, 5 }, { 6, 7, 8 } };//me encanta
             //int[,] matrix = new int[4, 4] { {13,10,4,1},{3,15,5,8},{14,11,7,2},{9,12,0,6}};
             // matrix = new int[3, 3] { { 1, 2, 3 }, { 4, 5,6 }, {  7, 8,0 } };
             //bool isSol=  Enumerable.Range(0, matrix.Rank).All(dimension => matrix.GetLength(dimension)
