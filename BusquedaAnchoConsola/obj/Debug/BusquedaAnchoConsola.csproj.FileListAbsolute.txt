@@ -13,3 +13,6 @@ D:\Projects\BusquedaAncho\BusquedaAnchoConsola\obj\Debug\BusquedaAnchoConsola.cs
 C:\gitRepo\CSharp\BusquedaAncho\BusquedaAnchoConsola\bin\Debug\BusquedaAnchoConsola.exe.config
 C:\gitRepo\CSharp\BusquedaAncho\BusquedaAnchoConsola\obj\Debug\BusquedaAnchoConsola.exe
 C:\gitRepo\CSharp\BusquedaAncho\BusquedaAnchoConsola\obj\Debug\BusquedaAnchoConsola.pdb
+C:\gitRepo\CSharp\BusquedaAncho\BusquedaAnchoConsola\bin\Debug\BusquedaAnchoConsola.exe
+C:\gitRepo\CSharp\BusquedaAncho\BusquedaAnchoConsola\bin\Debug\BusquedaAnchoConsola.pdb
+C:\gitRepo\CSharp\BusquedaAncho\BusquedaAnchoConsola\obj\Debug\BusquedaAnchoConsola.csprojResolveAssemblyReference.cache
