@@ -9,7 +9,7 @@ namespace BusquedaAnchoConsola
 {
     class Program
     {
-        //public static 
+        //public static  
         private static Dictionary<int, Helper.Record> Registry = new Dictionary<int, Helper.Record>();
         private static Dictionary<string, List<Helper.Record>> Index = new Dictionary<string, List<Helper.Record>>();
         public static Helper.Position _p = new Helper.Position();

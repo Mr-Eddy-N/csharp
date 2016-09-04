@@ -1,0 +1,6 @@
+D:\Projects\BusquedaAncho\BusquedaEnProfundidadConsola\bin\Debug\BusquedaEnProfundidadConsola.exe.config
+D:\Projects\BusquedaAncho\BusquedaEnProfundidadConsola\bin\Debug\BusquedaEnProfundidadConsola.exe
+D:\Projects\BusquedaAncho\BusquedaEnProfundidadConsola\bin\Debug\BusquedaEnProfundidadConsola.pdb
+D:\Projects\BusquedaAncho\BusquedaEnProfundidadConsola\obj\Debug\BusquedaEnProfundidadConsola.csprojResolveAssemblyReference.cache
+D:\Projects\BusquedaAncho\BusquedaEnProfundidadConsola\obj\Debug\BusquedaEnProfundidadConsola.exe
+D:\Projects\BusquedaAncho\BusquedaEnProfundidadConsola\obj\Debug\BusquedaEnProfundidadConsola.pdb

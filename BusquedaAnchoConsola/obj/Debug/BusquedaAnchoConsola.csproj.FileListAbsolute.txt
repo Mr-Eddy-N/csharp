@@ -1,0 +1,15 @@
+c:\users\edgar\documents\visual studio 2013\Projects\BusquedaAncho\BusquedaAnchoConsola\bin\Debug\BusquedaAnchoConsola.exe.config
+c:\users\edgar\documents\visual studio 2013\Projects\BusquedaAncho\BusquedaAnchoConsola\bin\Debug\BusquedaAnchoConsola.exe
+c:\users\edgar\documents\visual studio 2013\Projects\BusquedaAncho\BusquedaAnchoConsola\bin\Debug\BusquedaAnchoConsola.pdb
+c:\users\edgar\documents\visual studio 2013\Projects\BusquedaAncho\BusquedaAnchoConsola\obj\Debug\BusquedaAnchoConsola.exe
+c:\users\edgar\documents\visual studio 2013\Projects\BusquedaAncho\BusquedaAnchoConsola\obj\Debug\BusquedaAnchoConsola.pdb
+C:\Users\edgar\documents\visual studio 2013\Projects\BusquedaAncho\BusquedaAnchoConsola\obj\Debug\BusquedaAnchoConsola.csprojResolveAssemblyReference.cache
+D:\Projects\BusquedaAncho\BusquedaAnchoConsola\bin\Debug\BusquedaAnchoConsola.exe.config
+D:\Projects\BusquedaAncho\BusquedaAnchoConsola\obj\Debug\BusquedaAnchoConsola.exe
+D:\Projects\BusquedaAncho\BusquedaAnchoConsola\obj\Debug\BusquedaAnchoConsola.pdb
+D:\Projects\BusquedaAncho\BusquedaAnchoConsola\bin\Debug\BusquedaAnchoConsola.exe
+D:\Projects\BusquedaAncho\BusquedaAnchoConsola\bin\Debug\BusquedaAnchoConsola.pdb
+D:\Projects\BusquedaAncho\BusquedaAnchoConsola\obj\Debug\BusquedaAnchoConsola.csprojResolveAssemblyReference.cache
+C:\gitRepo\CSharp\BusquedaAncho\BusquedaAnchoConsola\bin\Debug\BusquedaAnchoConsola.exe.config
+C:\gitRepo\CSharp\BusquedaAncho\BusquedaAnchoConsola\obj\Debug\BusquedaAnchoConsola.exe
+C:\gitRepo\CSharp\BusquedaAncho\BusquedaAnchoConsola\obj\Debug\BusquedaAnchoConsola.pdb

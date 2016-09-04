@@ -1,0 +1,9 @@
+c:\users\edgar\documents\visual studio 2013\Projects\BusquedaAncho\BusquedaAncho\bin\Debug\BusquedaAncho.exe.config
+C:\gitRepo\CSharp\BusquedaAncho\BusquedaAncho\bin\Debug\BusquedaAncho.exe.config
+C:\gitRepo\CSharp\BusquedaAncho\BusquedaAncho\bin\Debug\BusquedaAncho.exe
+C:\gitRepo\CSharp\BusquedaAncho\BusquedaAncho\bin\Debug\BusquedaAncho.pdb
+C:\gitRepo\CSharp\BusquedaAncho\BusquedaAncho\obj\Debug\BusquedaAncho.csprojResolveAssemblyReference.cache
+C:\gitRepo\CSharp\BusquedaAncho\BusquedaAncho\obj\Debug\BusquedaAncho.Properties.Resources.resources
+C:\gitRepo\CSharp\BusquedaAncho\BusquedaAncho\obj\Debug\BusquedaAncho.csproj.GenerateResource.Cache
+C:\gitRepo\CSharp\BusquedaAncho\BusquedaAncho\obj\Debug\BusquedaAncho.exe
+C:\gitRepo\CSharp\BusquedaAncho\BusquedaAncho\obj\Debug\BusquedaAncho.pdb
